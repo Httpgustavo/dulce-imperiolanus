@@ -1,9 +1,31 @@
-.bubbles{
 
-	position: relative;
+.body{
+
+	margin: 0;
+	display: flex;
+	
+
 }
 
-.video {
+
+
+.bubbles{
 
 	position: absolute;
+
+	margin-top: 2em;
+}
+
+.h6{
+background-color: blue;
+	position: absolute;
+	margin-top: 0.5em;
+	margin-left: 50%;
+	opacity: 1;
+}
+.video {
+
+	margin-top: auto;
+	background-position: center;
+
 }

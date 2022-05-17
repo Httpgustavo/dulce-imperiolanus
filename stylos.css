@@ -7,9 +7,7 @@ body {
 	height: 100vh;
 	overflow: hidden; yellow
 	
-	background: -ms-linear-gradient(45deg, red, yellow );
-        background: -webkit-linear-gradient(45deg, red, yellow );
-        background: -moz-linear-gradient(45deg, red, yellow );
+	
 
 	display: inline-table;
 	justify-content: center;
